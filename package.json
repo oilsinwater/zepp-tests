@@ -1,0 +1,25 @@
+{
+  "name": "zepp-tests",
+  "version": "1.0.0",
+  "description": "testing smart-contracts",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oilsinwater/zepp-tests.git"
+  },
+  "author": "pc drummond",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oilsinwater/zepp-tests/issues"
+  },
+  "homepage": "https://github.com/oilsinwater/zepp-tests#readme",
+  "dependencies": {
+    "zeppelin-solidity": "^1.4.0"
+  }
+}
